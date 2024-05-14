@@ -1,14 +1,10 @@
 ### Olá,Eu sou a Beatriz Ferreira👋
-Minhas Redes Sociais
+Minhas Redes Sociais: 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://instagram.com/sujeitoprogramador)
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-### Tecnologias que eu uso no meu dia.
+ <h2>Tecnologias que eu uso no meu dia. <h2>
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -19,6 +15,10 @@ Minhas Redes Sociais
    <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-
- Apaixonada por tecnologia, educação e por mudar a vida das pessoas através da programação.
+<h6>Apaixonada em desenvolver interfaces dinâmicas e criativas.🎨<br>
+  <br>
+📟 Estudando Atualmente: JavaScript e React.</br>
+🏢 Estou em busca de uma oportunidade profissional de Estágio.</br>
+🏠 São Paulo-SP</br>
+📧beahferreira14@gmail.com </h6>
 
